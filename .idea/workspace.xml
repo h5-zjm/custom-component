@@ -2,9 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b6530fac-8d01-40b5-928f-64feb8a086aa" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/packages/form/src/form.vue" beforeDir="false" afterPath="$PROJECT_DIR$/packages/form/src/form.vue" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/packages/formitem/src/formItem.vue" beforeDir="false" afterPath="$PROJECT_DIR$/packages/formitem/src/formItem.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/input/src/input.vue" beforeDir="false" afterPath="$PROJECT_DIR$/packages/input/src/input.vue" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -17,7 +15,9 @@
     <option name="ROOT_SYNC" value="DONT_SYNC" />
   </component>
   <component name="ProjectId" id="1v1ZUIi2oMoFdmjYkQQZCXErNkn" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <OptionsSetting value="false" id="Update" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -49,7 +49,7 @@
       <option name="presentableId" value="Default" />
       <updated>1625731569451</updated>
       <workItem from="1625731574239" duration="3435000" />
-      <workItem from="1625752158926" duration="3125000" />
+      <workItem from="1625752158926" duration="3971000" />
     </task>
     <task id="LOCAL-00001" summary="init">
       <created>1625731688756</created>
@@ -58,7 +58,21 @@
       <option name="project" value="LOCAL" />
       <updated>1625731688756</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="init">
+      <created>1625755510245</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1625755510245</updated>
+    </task>
+    <task id="LOCAL-00003" summary="init">
+      <created>1625755633691</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1625755633691</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -69,18 +83,28 @@
     <option name="LAST_COMMIT_MESSAGE" value="init" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="333" y="34" key="CommitChangelistDialog2" timestamp="1625731688228">
-      <screen x="57" y="25" width="1383" height="875" />
+    <state x="335" y="34" key="CommitChangelistDialog2" timestamp="1625755633457">
+      <screen x="60" y="25" width="1380" height="875" />
     </state>
     <state x="333" y="34" key="CommitChangelistDialog2/1440.-155.1920.1055/57.25.1383.875@57.25.1383.875" timestamp="1625731688228" />
+    <state x="335" y="34" key="CommitChangelistDialog2/60.25.1380.875@60.25.1380.875" timestamp="1625755633457" />
+    <state x="198" y="98" key="DiffContextDialog" timestamp="1625755628579">
+      <screen x="60" y="25" width="1380" height="875" />
+    </state>
+    <state x="198" y="98" key="DiffContextDialog/60.25.1380.875@60.25.1380.875" timestamp="1625755628579" />
     <state x="259" y="98" key="SettingsEditor" timestamp="1625755347793">
       <screen x="60" y="25" width="1380" height="875" />
     </state>
     <state x="259" y="98" key="SettingsEditor/60.25.1380.875@60.25.1380.875" timestamp="1625755347793" />
-    <state x="348" y="199" key="Vcs.Push.Dialog.v2" timestamp="1625732754493">
-      <screen x="57" y="25" width="1383" height="875" />
+    <state x="350" y="199" key="Vcs.Push.Dialog.v2" timestamp="1625755577405">
+      <screen x="60" y="25" width="1380" height="875" />
     </state>
     <state x="348" y="199" key="Vcs.Push.Dialog.v2/1440.-155.1920.1055/57.25.1383.875@57.25.1383.875" timestamp="1625732754493" />
+    <state x="350" y="199" key="Vcs.Push.Dialog.v2/60.25.1380.875@60.25.1380.875" timestamp="1625755577405" />
+    <state x="541" y="380" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1625755580575">
+      <screen x="60" y="25" width="1380" height="875" />
+    </state>
+    <state x="541" y="380" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/60.25.1380.875@60.25.1380.875" timestamp="1625755580575" />
     <state x="451" y="217" width="597" height="490" key="find.popup" timestamp="1625754694848">
       <screen x="60" y="25" width="1380" height="875" />
     </state>
@@ -89,9 +113,9 @@
       <screen x="60" y="25" width="1380" height="875" />
     </state>
     <state x="527" y="355" key="git4idea.remote.GitConfigureRemotesDialog/60.25.1380.875@60.25.1380.875" timestamp="1625755430583" />
-    <state x="415" y="214" width="670" height="676" key="search.everywhere.popup" timestamp="1625755063987">
+    <state x="415" y="214" width="670" height="676" key="search.everywhere.popup" timestamp="1625755556532">
       <screen x="60" y="25" width="1380" height="875" />
     </state>
-    <state x="415" y="214" width="670" height="676" key="search.everywhere.popup/60.25.1380.875@60.25.1380.875" timestamp="1625755063987" />
+    <state x="415" y="214" width="670" height="676" key="search.everywhere.popup/60.25.1380.875@60.25.1380.875" timestamp="1625755556532" />
   </component>
 </project>

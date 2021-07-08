@@ -5,7 +5,7 @@
 </template>
 <script>
     export default {
-      name:'LgInput',
+      name:'ZjInput',
       inheritAttrs:false,//禁用父组件传过来的属性
       props:{
         value:{
