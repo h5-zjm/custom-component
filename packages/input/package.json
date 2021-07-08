@@ -1,6 +1,6 @@
 {
-  "name": "zj-input",
-  "version": "0.0.6",
+  "name": "zj-custom-input",
+  "version": "0.0.4",
   "description": "",
   "main": "dist/cjs/index.js",
   "module": "dist/es/index.js",
@@ -11,5 +11,5 @@
   "keywords": [],
   "author": "",
   "license": "MIT",
-  "gitHead": "e7fb4d3d8287f7a0985b05d72bec9d67996c15f1"
+  "gitHead": "608466b1446a21509f51f7b8f26d0144d458d6e9"
 }
