@@ -1,6 +1,6 @@
 {
-  "name": "lg-button",
-  "version": "0.0.1",
+  "name": "zj-button",
+  "version": "1.0.0",
   "description": "",
   "main": "dist/cjs/index.js",
   "module": "dist/es/index.js",
