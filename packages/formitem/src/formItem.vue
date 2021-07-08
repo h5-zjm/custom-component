@@ -12,7 +12,7 @@
 <script>
     import AsyncValidator from 'async-validator'
   export default {
-    name:'LgFormItem',
+    name:'ZgFormItem',
     props:{
       label:{
         type:String

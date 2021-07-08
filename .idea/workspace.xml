@@ -2,7 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b6530fac-8d01-40b5-928f-64feb8a086aa" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/packages/form/src/form.vue" beforeDir="false" afterPath="$PROJECT_DIR$/packages/form/src/form.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/formitem/src/formItem.vue" beforeDir="false" afterPath="$PROJECT_DIR$/packages/formitem/src/formItem.vue" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -47,7 +49,7 @@
       <option name="presentableId" value="Default" />
       <updated>1625731569451</updated>
       <workItem from="1625731574239" duration="3435000" />
-      <workItem from="1625752158926" duration="1571000" />
+      <workItem from="1625752158926" duration="3125000" />
     </task>
     <task id="LOCAL-00001" summary="init">
       <created>1625731688756</created>
@@ -71,9 +73,25 @@
       <screen x="57" y="25" width="1383" height="875" />
     </state>
     <state x="333" y="34" key="CommitChangelistDialog2/1440.-155.1920.1055/57.25.1383.875@57.25.1383.875" timestamp="1625731688228" />
+    <state x="259" y="98" key="SettingsEditor" timestamp="1625755347793">
+      <screen x="60" y="25" width="1380" height="875" />
+    </state>
+    <state x="259" y="98" key="SettingsEditor/60.25.1380.875@60.25.1380.875" timestamp="1625755347793" />
     <state x="348" y="199" key="Vcs.Push.Dialog.v2" timestamp="1625732754493">
       <screen x="57" y="25" width="1383" height="875" />
     </state>
     <state x="348" y="199" key="Vcs.Push.Dialog.v2/1440.-155.1920.1055/57.25.1383.875@57.25.1383.875" timestamp="1625732754493" />
+    <state x="451" y="217" width="597" height="490" key="find.popup" timestamp="1625754694848">
+      <screen x="60" y="25" width="1380" height="875" />
+    </state>
+    <state x="451" y="217" width="597" height="490" key="find.popup/60.25.1380.875@60.25.1380.875" timestamp="1625754694848" />
+    <state x="527" y="355" key="git4idea.remote.GitConfigureRemotesDialog" timestamp="1625755430583">
+      <screen x="60" y="25" width="1380" height="875" />
+    </state>
+    <state x="527" y="355" key="git4idea.remote.GitConfigureRemotesDialog/60.25.1380.875@60.25.1380.875" timestamp="1625755430583" />
+    <state x="415" y="214" width="670" height="676" key="search.everywhere.popup" timestamp="1625755063987">
+      <screen x="60" y="25" width="1380" height="875" />
+    </state>
+    <state x="415" y="214" width="670" height="676" key="search.everywhere.popup/60.25.1380.875@60.25.1380.875" timestamp="1625755063987" />
   </component>
 </project>
