@@ -5,7 +5,7 @@
 </template>
 <script>
     export default {
-      name:'LgForm',
+      name:'ZjForm',
       props:{
         model:{
           type:Object
